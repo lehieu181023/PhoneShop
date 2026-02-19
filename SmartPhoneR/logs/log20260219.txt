@@ -1,0 +1,36 @@
+2026-02-19 15:12:44.359 +07:00 [INF] [admin] Đã cập nhật Brand: Id = 4
+2026-02-19 15:12:59.181 +07:00 [INF] [admin] Đã cập nhật Brand: Id = 3
+2026-02-19 15:15:33.693 +07:00 [INF] [admin] Đã cập nhật Brand: Id = 2
+2026-02-19 15:18:40.185 +07:00 [INF] [admin] Đã cập nhật Brand: Id = 3
+2026-02-19 15:19:14.184 +07:00 [INF] [admin] Đã cập nhật Brand: Id = 3
+2026-02-19 15:34:16.762 +07:00 [INF] [admin] Đã xóa Product: Id = 1
+2026-02-19 15:37:53.415 +07:00 [INF] [admin] Đã xóa Category: Id = 5
+2026-02-19 15:37:55.346 +07:00 [INF] [admin] Đã xóa Category: Id = 4
+2026-02-19 15:37:57.366 +07:00 [INF] [admin] Đã xóa Category: Id = 3
+2026-02-19 15:37:59.260 +07:00 [INF] [admin] Đã xóa Category: Id = 2
+2026-02-19 15:38:01.025 +07:00 [INF] [admin] Đã xóa Category: Id = 1
+2026-02-19 15:38:09.497 +07:00 [INF] [admin] Đã xóa Brand: Id = 1
+2026-02-19 15:44:21.039 +07:00 [INF] [admin] Đã tạo Category mới: Name = Thường
+2026-02-19 15:44:41.877 +07:00 [INF] [admin] Đã tạo Category mới: Name = 256GB
+2026-02-19 15:44:46.294 +07:00 [INF] [admin] Đã xóa Category: Id = 1002
+2026-02-19 15:49:14.054 +07:00 [INF] [admin] Đã cập nhật Product: Id = 1, Name = iPhone 17 256GB
+2026-02-19 16:14:22.944 +07:00 [INF] [admin] Đã cập nhật Product: Id = 12, Name = Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB
+2026-02-19 16:14:33.938 +07:00 [INF] [admin] Đã cập nhật Product: Id = 11, Name = Xiaomi POCO F8 Pro 5G 12GB 256GB
+2026-02-19 16:14:44.267 +07:00 [INF] [admin] Đã cập nhật Product: Id = 10, Name = iPhone 16 128GB
+2026-02-19 16:14:53.159 +07:00 [INF] [admin] Đã cập nhật Product: Id = 7, Name = Xiaomi 15T 5G 12GB 512GB
+2026-02-19 16:15:00.954 +07:00 [INF] [admin] Đã cập nhật Product: Id = 5, Name = iPhone 16 Pro Max
+2026-02-19 16:15:12.543 +07:00 [INF] [admin] Đã cập nhật Product: Id = 4, Name = iPhone 17 Pro Max 256GB
+2026-02-19 16:15:26.838 +07:00 [INF] [admin] Đã cập nhật Product: Id = 10, Name = iPhone 16 128GB
+2026-02-19 16:20:19.437 +07:00 [INF] [admin] Đã xóa Account: Id = 2
+2026-02-19 16:20:21.627 +07:00 [INF] [admin] Đã xóa Account: Id = 1003
+2026-02-19 16:20:23.463 +07:00 [INF] [admin] Đã xóa Account: Id = 3007
+2026-02-19 16:21:49.558 +07:00 [WRN] [admin] Nhập dữ liệu không hợp lệ
+2026-02-19 16:23:07.339 +07:00 [WRN] [admin] Nhập dữ liệu không hợp lệ
+2026-02-19 16:23:31.207 +07:00 [WRN] [admin] Nhập dữ liệu không hợp lệ
+2026-02-19 16:23:53.323 +07:00 [INF] [admin] Đã tạo Account mới: Name = Khách hàng 1
+2026-02-19 16:25:29.943 +07:00 [INF] [admin] Đã tạo Account mới: Name = Khách hàng 2
+2026-02-19 16:26:20.587 +07:00 [INF] [khachhang1] Đã tạo đơn hàng: DH20260219162620
+2026-02-19 16:27:11.688 +07:00 [INF] [KhachHang2] Đã tạo đơn hàng: DH20260219162711
+2026-02-19 16:27:30.556 +07:00 [INF] [admin] Đã thay đổi trạng thái Order: Id = 2, Status = 3
+2026-02-19 16:27:33.677 +07:00 [INF] [admin] Đã thay đổi trạng thái Order: Id = 1, Status = 3
+2026-02-19 16:28:02.283 +07:00 [INF] [khachhang1] Đã tạo đơn hàng: DH20260219162802
